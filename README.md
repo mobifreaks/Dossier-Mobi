@@ -2,7 +2,7 @@
 
 Dossier: a dark blog template for phones, with a collapsible menu, search and a single-post view.
 
-**[Live demo](https://mobifreaks.github.io/Dossier-Mobi/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Dossier-Mobi/)** ·
 [Download zip](https://github.com/mobifreaks/Dossier-Mobi/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
